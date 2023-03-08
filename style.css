@@ -4,7 +4,7 @@
   --ff-primary: 'Epilogue', sans-serif;
   --fw-heading: 800;
   --fs-heading: 4.0rem;
-  --fs-heading-sm: clamp(2.9rem, 0.5rem + 3vw, 5.6rem);
+  --fs-heading-sm: clamp(2.6rem, 0.5rem + 3vw, 5.6rem);
   --Lh-heading: 4.8rem;
   --fw-p: 400;
   --fs-p: 1.6rem;
@@ -47,7 +47,7 @@ body
 .page 
 {
   max-width: clamp(33.0rem, 1rem + 80vw, 117.0rem);
-  padding: 0 5rem;
+  padding: 0 2rem;
   margin: 10rem auto 10rem;
 }
 
